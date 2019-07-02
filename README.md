@@ -2,10 +2,15 @@
 
 Shortcut way to write html code!
 
-*Html FileSaver.js from  
-                  {By Eli Grey, http://eligrey.com}
+Ref:
+Type <bd for <body></body>
+Or Check The Main Index.html for more Ref or set by your own.
 
 *Edit/add html ref Database:
 
         "<cen": "<center> </center>",
         "<doc": "<!DOCTYPE html>",
+        
+        
+        
+FileSaver.js from        (By Eli Grey, http://eligrey.com) 
