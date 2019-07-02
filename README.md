@@ -3,7 +3,8 @@
 Shortcut way to write html code!
 
 Ref:
-Type <bd for <body></body>
+Type <bd for <body> </body>
+
 Or Check The Main Index.html for more Ref or set by your own.
 
 *Edit/add html ref Database:
